@@ -1,1 +1,0 @@
-# DWT-of-an-image
